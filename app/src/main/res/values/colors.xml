@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGrey">#D3D3D3</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="darkGrey">#A9A9A9</color>
+    <color name="colorBlack">#000000</color>
+    <color name="white">#F0FFF0</color>
+    <color name="colorlightgrey">#808080</color>
+    <color name="floralwhite">#8b8989</color>
+    <color name="HELLA_yellow"> #FFC800</color>
+    <color name="HELLA_blue">#0F2364</color>
+    <color name="HELLA_titanium1">#6A7A86</color>
+    <color name="HELLA_titanium2">#DEE4E7</color>
+    <color name="HELLA_brass1">#D17A0D</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
